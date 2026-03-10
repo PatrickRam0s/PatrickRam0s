@@ -1,6 +1,6 @@
 # Olá, eu sou o Patrick 👋
 
-**Analista de Sistemas | Especialista em Cibersegurança & Forense Digital**
+**Analista de Sistemas & Segurança da Informação**
 
 Recentemente graduado em Análise e Desenvolvimento de Sistemas. Agora estou na caminhada para aprender mais sobre Cibersegurança com a pós-graduação em Crimes Cibernéticos e Forense.
 
