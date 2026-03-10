@@ -2,7 +2,7 @@
 
 **Analista de Sistemas | Especialista em Cibersegurança & Forense Digital**
 
-Recém-formado em Análise e Desenvolvimento de Sistemas, com foco atual em proteção, mitigação e auditoria de sistemas. Tenho um forte background em lógica e raciocínio matemático, sendo premiado pela OBMEP e ex-bolsista de Iniciação Científica pelo CNPq.
+Recém-formado em Análise e Desenvolvimento de Sistemas, com foco atual em proteção, mitigação e auditoria de sistemas. Tenho um razoável background em lógica e raciocínio matemático, sendo premiado pela OBMEP e ex-bolsista de Iniciação Científica pelo CNPq.
 
 ---
 
